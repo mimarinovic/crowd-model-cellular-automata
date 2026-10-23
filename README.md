@@ -14,7 +14,7 @@ This behaviour is shown to demonstrate crowd movement and avoid catastrophic eve
 Python, numpy, matplotlib, mesa
 
 ## Documentation
-- [Seminar paper (PDF, Croatian)](docs/seminar-paper.pdf)
+- [Seminar paper (PDF, Croatian)](docs/seminar_paper.pdf)
 - [Presentation (PDF)](docs/presentation.pdf)
 
 ## Results
